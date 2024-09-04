@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm SRJ 👋
 
 I'm a passionate **Robotics Engineer** with a love for building intelligent machines and exploring the intersection of hardware and software. My journey in robotics has taken me through various exciting projects, from autonomous vehicles to robotic arms, and I’m always looking for new challenges to tackle.
 
